@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TurkyAlammar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌍  I'm based in SA
+✉️  You can contact me at turky.alammar@outlook.com
 
-<!---
-TurkyAlammar/TurkyAlammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📄 you can learn more about me throw https://www.linkedin.com/in/turkyalammar/
+⚡  Open to work
